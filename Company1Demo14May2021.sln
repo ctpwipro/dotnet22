@@ -1,0 +1,40 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Company1Demo14May2021", "Company1Demo14May2021\", "{7385D2C0-FA3F-4AB1-8EC9-9B2DAA06714D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_30258"
+		Debug.AspNetCompiler.PhysicalPath = "C:\Jenkins\workspace\Dotnet_Build\Company1Demo14May2021\Company1Demo14May2021"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_30258\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_30258"
+		Release.AspNetCompiler.PhysicalPath = "C:\Jenkins\workspace\Dotnet_Build\Company1Demo14May2021\Company1Demo14May2021"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_30258\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "True"
+		VWDPort = 30258
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7385D2C0-FA3F-4AB1-8EC9-9B2DAA06714D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7385D2C0-FA3F-4AB1-8EC9-9B2DAA06714D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4C4FE4F-72EB-41E4-A388-F5D81A4352C4}
+	EndGlobalSection
+EndGlobal
